@@ -1,0 +1,9 @@
+body {
+    background-image:
+        linear-gradient(to right, pink, purple, darkblue),
+        url("f1.jpg");
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
